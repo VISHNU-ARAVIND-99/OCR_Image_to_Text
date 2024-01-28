@@ -9,3 +9,4 @@ A Streamlit application that allows users to upload an image of a business card 
 ![image](https://github.com/VISHNU-ARAVIND-99/OCR_Image_to_Text/assets/116996284/228cde81-38db-4bbe-b1a3-3fe895151054)
 
 
+![1](https://github.com/VISHNU-ARAVIND-99/OCR_Image_to_Text/assets/116996284/ebbbfd83-5861-4762-bd42-d0e1e830388e)
